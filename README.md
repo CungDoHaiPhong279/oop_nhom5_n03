@@ -52,8 +52,9 @@ Dự án này là một hệ thống quản lý bán hàng, giúp tối ưu hóa
 
 
 ## Giao diện đầu tiên của dự án
-![firstScreen](https://github.com/user-attachments/assets/dc32f8a7-d815-42f6-a02b-2286f935396a)
+![firstScreen](https://github.com/user-attachments/assets/f9cddf55-f161-4249-8fae-b4f9eeb71653)
+
 
 =======
 
->>>>>>> Stashed changes
+>>>>>>> Stashed changes <<<<<<<<<
